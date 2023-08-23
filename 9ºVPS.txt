@@ -4,7 +4,7 @@
 2- Abrir o Visual Studio e começar um projeto;
 3- Salvar esse projeto Na pasta criada;
 4- Altere a cor do fundo da pagina para marron;
-5- Adicione um texto "Minha 1ª Avaliação Somativa";
+5- Adicione um Título "Minha 1ª Avaliação Somativa";
 6- Após ao título, adicione uma imagem e a centralize, com as bordas arredondadas e um tamanho de 400 por 400;
 7- Com isso, crie uma tabela, com os seguintes menus:
 	a. Foto;
@@ -14,6 +14,7 @@
 	e. Endereço;
 	f. Número;
 	g. Telefone
+7.1- Na tabela, crie pelo menos 5 linhas com dados diferentes.
 7.1- Para separar a questão 6 e 7, utilize a marcação responsavel por traçar uma linha na pagina.
 8- Entre na Kabum e monte uma configuração de computador em formato de lista ordenada;
 9- Crie uma segunda pagina com o nome "curriculo.html" e com a tag certa faça o apontamento de uma pagina para outra, igual fizemos no exercicio da pizzaria;
