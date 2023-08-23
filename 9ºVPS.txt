@@ -19,4 +19,4 @@
 9- Crie uma segunda pagina com o nome "curriculo.html" e com a tag certa faça o apontamento de uma pagina para outra, igual fizemos no exercicio da pizzaria;
 10- Com tudo isso pronto, suba para um repositório do github para que o professor
 possa estar avaliando.
-
+11- Suba o link do seu perfil no formulario que eu estarei passando
